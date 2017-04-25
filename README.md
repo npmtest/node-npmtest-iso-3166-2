@@ -1,6 +1,6 @@
 # npmtest-iso-3166-2
 
-#### test coverage for  [iso-3166-2 (v0.6.0)](https://github.com/olahol/iso-3166-2.js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-iso-3166-2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-iso-3166-2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-iso-3166-2.svg)](https://travis-ci.org/npmtest/node-npmtest-iso-3166-2)
+#### basic test coverage for  [iso-3166-2 (v0.6.0)](https://github.com/olahol/iso-3166-2.js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-iso-3166-2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-iso-3166-2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-iso-3166-2.svg)](https://travis-ci.org/npmtest/node-npmtest-iso-3166-2)
 
 #### Lookup information about ISO-3166-2 subdivisions.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-iso-3166-2/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-iso-3166-2/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-iso-3166-2/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-iso-3166-2/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-iso-3166-2/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-iso-3166-2/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-iso-3166-2/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-iso-3166-2/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-iso-3166-2/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-iso-3166-2/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-iso-3166-2/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-iso-3166-2/build/coverage.html/index.html)
 
@@ -97,7 +97,8 @@
             "ipad/6"
         ]
     },
-    "version": "0.6.0"
+    "version": "0.6.0",
+    "bin": {}
 }
 ```
 
